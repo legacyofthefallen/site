@@ -1,2 +1,4 @@
 exclude:
   - CNAME
+includes:
+  - [".wellknown/discord"]
